@@ -13,15 +13,15 @@
 
 #include <dt-bindings/gpio/gpio.h>
 
-#define FALCON_CAMERA0  "dummy,camera"
-#define FALCON_CAMERA1  "dummy,camera"
-#define FALCON_CAMERA2  "dummy,camera"
-#define FALCON_CAMERA3  "dummy,camera"
-#define FALCON_CAMERA4  "dummy,camera"
-#define FALCON_CAMERA5  "dummy,camera"
-#define FALCON_CAMERA6  "dummy,camera"
-#define FALCON_CAMERA7  "dummy,camera"
-
+//#define FALCON_CAMERA0  "onnn,ar0231"
+//#define FALCON_CAMERA1  "onnn,ar0231"
+//#define FALCON_CAMERA2  "onnn,ar0231"
+//#define FALCON_CAMERA3  "onnn,ar0231"
+//#define FALCON_CAMERA4  "onnn,ar0231"
+//#define FALCON_CAMERA5  "onnn,ar0231"
+//#define FALCON_CAMERA6  "onnn,ar0231"
+//#define FALCON_CAMERA7  "onnn,ar0231"
+//dummy,camera
 /* Define the endpoint links */
 #ifdef FALCON_CAMERA0
 &max96712_in0 {
